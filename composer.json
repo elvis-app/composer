@@ -1,0 +1,13 @@
+{
+    "name": "wecutztwon/composer",
+    "authors": [
+        {
+            "name": "fangjw",
+            "email": "fangjw@xx.com"
+        }
+    ],
+    "version": "1.0.0",
+    "require": {
+        "php":">7.3"
+    }
+}
